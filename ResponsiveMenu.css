@@ -23,7 +23,7 @@ ul.Topnav li a{
 ul.Topnav li a:hover{
     background-color: #4caf50;
 }
-@media screen and(max-width:900px){
+@media all and (max-width:900px){
     ul.Topnav li{
         float: none;
     }
